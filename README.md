@@ -1,5 +1,6 @@
 # Tic-Tac-Toe
 Tic-Tac-Toe Web App
+
 Experience the classic game of Tic-Tac-Toe with this simple and engaging web application. Built using HTML, CSS, and basic JavaScript, this project showcases foundational skills in web development. Enjoy hours of fun with a clean and user-friendly interface.
 
 Features:
@@ -11,7 +12,11 @@ Technologies Used:
 HTML: Structured the webpage for the game board and user interface.
 CSS: Styled the components for a visually appealing experience.
 JavaScript: Implemented game logic, player turns, and winner determination.
+
+
+
 How to Play:
+
 Clone the repository to your local machine.
 Open app.html in your web browser.
 Play against the computer.
